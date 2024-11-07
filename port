@@ -1,0 +1,13 @@
+git clone ...https ---copy
+cd (change direction) file name
+touch create file name
+git ststus (it shows red colour other wise file was not created)
+git add . (*) file name
+chech the git status (it shows green coulour other wise canot created a file)
+git commit -m create short file name ex;('co')
+git push origin (use this command we shoud transver the local repository in to remort)
+branching ; master are main branch is mandatory branch
+git branch (this command ueses for checking the branches )
+git branch branchname (use this command to create the branch)
+git branch (now you can check the status)
+rule no ;we have to create all branches for through manin aret master branch.
